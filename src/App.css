@@ -33,8 +33,8 @@
 }
 
 @keyframes example {
-  0%   {background-color: red;}
-  25%  {background-color: yellow;}
-  50%  {background-color: blue;}
-  100% {background-color: green;}
+  0%   {background-color: #F694C1;}
+  25%  {background-color: #E0BBE4;}
+  50%  {background-color: #5BC0BE;}
+  100% {background-color: #D3F8E2;}
 }
