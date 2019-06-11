@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Mitr|Rubik:500&display=swap');
 .App {
   text-align: center;
 }
@@ -17,6 +18,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-family: 'Mitr', sans-serif;
+  text-shadow: 2px 1px black ;
 }
 
 .App-link {

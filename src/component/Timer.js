@@ -14,8 +14,8 @@ class Timer extends Component {
             <div>
 
                 <p>Time Count = {count}</p>
-                <input type="number" id='tnum'></input>
-                <button type="button" onclick=''>Snap!</button>
+                {/* <input type="number" id='tnum'></input>
+                <button type="button" onclick=''>Snap!</button> */}
             </div>
 
         )
